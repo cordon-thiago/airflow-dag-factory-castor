@@ -1,0 +1,3 @@
+[submodule "airflow-castor"]
+	path = airflow-castor
+	url = /home/thiago/projects/airflow/airflow-castor
